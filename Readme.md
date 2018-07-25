@@ -34,19 +34,19 @@ Password => admin1
 
 ######Screenshoot :
 
-![Screenshoot](screenshoot/ss0.png)
 
-![Screenshoot](screenshoot/ss1.png)
+![Screenshoot](img/ss1.png)
 
-![Screenshoot](screenshoot/ss2.png)
+![Screenshoot](img/ss2.png)
 
-![Screenshoot](screenshoot/ss3.png)
+![Screenshoot](img/ss3.png)
 
-![Screenshoot](screenshoot/ss4.png)
+![Screenshoot](img/ss4.png)
 
-![Screenshoot](screenshoot/ss5.png)
+![Screenshoot](img/ss5.png)
 
-![Screenshoot](screenshoot/ss6.png)
+![Screenshoot](img/ss6.png)
 
+![Screenshoot](img/ss7.png)
 
 [My Facebook!](www.facebook.com/arrda.witwicky)

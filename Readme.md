@@ -1,38 +1,38 @@
-##SIMRS LITE v1.0
+## SIMRS LITE v1.0
 
 Aplikasi ini dibuat menggunakan Framework Yii2 dan menggunakan template AdminLTE. Anda bisa menggunakan ini untuk keperluan pembelajaran, membantu tugas, ataupun digunakan untuk keperluan yang seharusnya.
 
-####Login sebagai Admin :
+#### Login sebagai Admin :
 
 Username => admin
 Password => 123456
 
-####Login sebagai Dokter :
+#### Login sebagai Dokter :
 
-#####* Dokter ke 1
+##### * Dokter ke 1
 
 Username => warren
 Password => admin1
 
-#####* Dokter ke 2
+##### * Dokter ke 2
 
 Username => jerry
 Password => admin1
 
-#####* Dokter ke 3
+##### * Dokter ke 3
 
 Username => yanuar
 Password => admin1
 
-###Note : 
+### Note : 
 
 - Masih belum selesai di bagian pendaftaraan (Pasien Lama).
 
 ==================================================================
 
-#####Sekilas Mengenai tampilan webnya
+### Sekilas Mengenai tampilan webnya
 
-######Screenshoot :
+###### Screenshoot :
 
 
 ![Screenshoot](img/ss1.png)

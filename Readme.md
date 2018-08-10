@@ -1,7 +1,6 @@
 ## SIMRS LITE v1.0
 
-Aplikasi ini dibuat menggunakan Framework Yii2 dan menggunakan template AdminLTE. Anda bisa menggunakan ini untuk keperluan pembelajaran, membantu tugas, ataupun digunakan untuk keperluan yang seharusnya.
-
+Aplikasi ini dibuat menggunakan Framework Yii2 dan menggunakan template AdminLTE. Anda bisa menggunakan ini untuk keperluan pembelajaran, membantu tugas, atau pun untuk dikembangkan 
 #### Login sebagai Admin :
 
 Username => admin
